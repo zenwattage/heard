@@ -1,7 +1,7 @@
 # heard
 A Cli brain dumping tool.
 
-#Inspiration
+# Inspiration
 When working in restaurants/bars/kitchens it's common to be holding many tasks in your working memory as you are
 taking order/request from customers and relaying these orders/requests to coworkers.
 
