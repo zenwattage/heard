@@ -9,4 +9,6 @@ It is obviously better if the orders/requests are written down as they are recei
 
 A verbal confirmation that is widespread is the phrase, "heard." For example, a server might tell the bartender, "I need a margarita for table 12." The bartender would respond with, "Heard." Indicating that he/she heard the request. Nothing further is needed. The order has been relayed and heard and will be created.
 
-In this style I want to pass things in my brain to my 'coworker' have them 'heard' it and handle it appropriately. 
+In this style I want to pass things in my brain to my 'coworker' have them 'heard' it and handle it appropriately.
+
+My intention is to use this project, to learn, but also to start the habit of looking for areas where I can build myself tools to simplify my life. 
