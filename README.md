@@ -11,4 +11,16 @@ A verbal confirmation that is widespread is the phrase, "heard." For example, a 
 
 In this style I want to pass things in my brain to my 'coworker' have them 'heard' it and handle it appropriately.
 
-My intention is to use this project, to learn, but also to start the habit of looking for areas where I can build myself tools to simplify my life. 
+My intention is to use this project, to learn, but also to start the habit of looking for areas where I can build myself tools to simplify my life.
+
+# Questions/Unknowns:
+ - How would this actually work?
+    - Is this simply a Pearl script? 
+
+
+# Tech
+ - Go
+ - SQLite
+ - Ruby UI?
+
+ 
