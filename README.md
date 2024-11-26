@@ -22,8 +22,7 @@ My intention is to use this project, to learn, but also to start the habit of lo
  - Go
  - SQLite
  - Ruby UI?
- - 
-
+ - Pearl?!
 
 # Format spitballs
  - heard 'message goes here' : category : flag
