@@ -22,8 +22,13 @@ My intention is to use this project, to learn, but also to start the habit of lo
  - Go
  - SQLite
  - Ruby UI?
+<<<<<<< HEAD
  - Pearl?
  - test!!
+=======
+ - Rust?! 
+
+>>>>>>> 3257e5a (pushing working add, remove)
 
 # Format spitballs
  - heard 'message goes here' : category : flag
