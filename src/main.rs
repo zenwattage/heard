@@ -31,6 +31,7 @@ fn main() {
             list_notes(&file_path, category);
         }
         "--edit" => {
+            println!("{}", file_path);
             if args.len() < 5 || args[3] != ":" {
                 eprintln!("{}", "Usage: heard --edit INDEX \"new text\" : category".yellow());
                 return;
@@ -43,7 +44,7 @@ fn main() {
             let new_category = args[5].to_string();
             edit_note(&file_path, index - 1, &new_text, &new_category);
         }
-        "--remove" => {
+        "--remove" | "--r" => {
             if args.len() < 3 {
                 eprintln!("{}", "Usage: heard --remove INDEX".yellow());
                 return;
@@ -114,7 +115,7 @@ fn list_notes(file_path: &str, category: Option<&String>) {
 
 fn edit_note(file_path: &str, index: usize, new_text: &str, new_category: &str) {
     let mut notes = read_notes(file_path);
-
+    
     if index >= notes.len() {
         eprintln!("{}", "Invalid index. Note does not exist.".red());
         return;

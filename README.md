@@ -35,4 +35,9 @@ My intention is to use this project, to learn, but also to start the habit of lo
  - first
  - second
  - third
- 
+
+
+# Build 
+ - cargo build --release
+ - sudo cp target/release/heard /usr/local/bin/
+
