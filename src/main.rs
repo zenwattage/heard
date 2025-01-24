@@ -21,7 +21,7 @@ fn main() {
         eprintln!("  heard \"note text\" : category      Add a new note");
         eprintln!("  heard --list [category]           List notes");
         eprintln!("  heard --edit INDEX \"new text\" : category   Edit a note");
-        eprintln!("  heard --remove INDEX              Remove a note");
+        eprintln!("  heard --remove or --r INDEX              Remove a note");
         return;
     }
 
